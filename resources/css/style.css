@@ -4,7 +4,7 @@ body {
 
 #home {
   text-align: center;
-  background-image: url("images/the-flatiron-building.png")
+  background-image: url("images/the-flatiron-building.png");
 }
 
 h1 {
@@ -43,7 +43,7 @@ h1 {
 
 #picBackground {
   text-align: center;
-  background-image: url("images/the-flatiron-building.png")
+  background-image: url("images/the-flatiron-building.png");
 }
 
 h4 {
